@@ -18,7 +18,6 @@ Other Common Github Profile Sections
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=flat&logo=Python&logoColor=1DF700&labelColor=black&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Django' src='https://img.shields.io/badge/Django-100000?style=flat&logo=Django&logoColor=1DF700&labelColor=black&color=black'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-100000?style=flat&logo=JavaScript&logoColor=FFE30F&labelColor=black&color=black'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/DevOps-100000?style=flat&logo=&logoColor=FFE30F&labelColor=black&color=black'/></a>
 
 
 🛠 Skills
