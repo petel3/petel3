@@ -15,8 +15,7 @@ Working as Hardware test engineer in Automotive industry, but soon I hope to be 
 Other Common Github Profile Sections
 🧠 I'm currently learning Python Django and C++. 
 
-<a href='#' src='https://img.shields.io/badge/Python-100000?style=flat&logo=Python&logoColor=1DF700&labelColor=black&color=black'/></a>
-<a href='#' src='https://img.shields.io/badge/Django-100000?style=flat&logo=Django&logoColor=1DF700&labelColor=black&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' src='https://img.shields.io/badge/Django-100000?style=flat&logo=Django&logoColor=1DF700&labelColor=black&color=black'/></a>
 <a href='#' src='https://img.shields.io/badge/JavaScript-100000?style=flat&logo=JavaScript&logoColor=FFE30F&labelColor=black&color=black'/></a>
 
 
