@@ -2,18 +2,18 @@
 
 🚀 About Me
 
-I'm currently learning Python and C++
 
-Working as Hardware test engineer in Automotive industry, but soon I hope to be Python web developer with Django Framework or C++ game developer.
-
-
+Working as Hardware test engineer in Automotive industry, I had an educations for python and C++ in SoftUni.
 
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgi-popov-101264124/)
 
 Other Common Github Profile Sections
-🧠 I'm currently learning Python Django and C++. 
+🧠 I'm currently learning Cyber security offensive (penetration testing).
+PJPT cefrification - Done.
+PORP certification (OSINT) - in progress.
+PNPT certification - next goal.
 
 <a href='#' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=flat&logo=Python&logoColor=1DF700&labelColor=black&color=black'/></a>
 <a href='#' target="_blank"><img alt='Django' src='https://img.shields.io/badge/Django-100000?style=flat&logo=Django&logoColor=1DF700&labelColor=black&color=black'/></a>
