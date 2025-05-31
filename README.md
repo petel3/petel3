@@ -5,6 +5,8 @@
 
 Working as Hardware test engineer in Automotive industry, I had an educations for python and C++ in SoftUni.
 
+Cyber security enthusiast.
+
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgi-popov-101264124/)
